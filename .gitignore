@@ -12,9 +12,10 @@ __pycache__/
 *.tar.gz
 *.zip
 artifacts/*.csv
-artifacts/*.npy
+artifacts/*.npz
 artifacts/application_train.csv
 data/
 logs/
 myenv/
 notebooks/data/
+
