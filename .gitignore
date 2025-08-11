@@ -12,7 +12,8 @@ __pycache__/
 *.tar.gz
 *.zip
 artifacts/*.csv
-artifacts/*.npz
+artifacts/test.npz
+artifacts/train.npz
 artifacts/application_train.csv
 data/
 logs/
