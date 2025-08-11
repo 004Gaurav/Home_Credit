@@ -19,3 +19,4 @@ logs/
 myenv/
 notebooks/data/
 
+"artifacts/*.npz" 
